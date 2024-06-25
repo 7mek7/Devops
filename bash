@@ -23,6 +23,19 @@ a bash script that displays thhe current directory:
 #!bin/bash
 cho "currentuser: $(pwd)"
 
+#######################################################
+a bash script to search for a specific pattern intext file and display lines matching that pattern
+
+#!/bin/bash
+pattern="pattern"
+filename="file.txt"
+grep "$pattern" "$filename"
+
+#######################################################
+
+
+
+
 
 
   
