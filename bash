@@ -32,6 +32,38 @@ filename="file.txt"
 grep "$pattern" "$filename"
 
 #######################################################
+a bash script that sums odd numbers from 1 to 100 and displays the answer
+
+sum=0
+for ((i=1; i<=100; i+=2))
+do
+    sum=$((sum + i))
+done
+echo "the sum of odd numbers from 1 to 100: $sum
+
+"
+#######################################################################
+#######################################################################
+'rest architecture in bash': 
+rest or (representational state transfer) is an architecture for desighning distributed systems
+that is based on charactristics. REST is used as an architectural patternfor building web services and APIs
+this architecture is based on simple principles expandable reliable reusable and useable among research resources
+
+in bash you can use the rest API to communicate with web services
+to send rest requests in bash you can use the (curl)command (curl) is a command line tool that allows you to send and receive
+(http)and(https)requests
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
