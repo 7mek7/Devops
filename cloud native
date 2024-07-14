@@ -5,3 +5,6 @@ cloud native applications are disigned to take full advantages of cloud infrastr
 in the context of devops, cloud native practice focus on automating and streamling the entire software development lifecycle 
 from code development to deployment and monitoring.
 this approach emphasizes delivery (ci/cd), micro services architecture containerization and infrastructure as code 
+
+by accsepting cloud native oractices in devops organizations can achive faster development cycles,impeoved collaboration between development 
+and operations teams , better scalability and resource utilization and increased reliability and availability of applications
