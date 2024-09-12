@@ -100,9 +100,28 @@ if name == '__main__':
 
 this code create a simple API that returns data in JSON format
 _______________________________________________________________________________________________________________________
+use bluprint:
+from flask import Flask, Blueprint
 
+app = Flask(__name__)
+simple_page = Blueprint('simple_page', name)
 
+@simple_page.route('/simple')
+def simple():
+    return "اits a simple page."
 
+app.register_blueprint(simple_page)
+
+if name == '__main__':
+    app.run(debug=True)
+
+this code create a simple flask application using blueprint
+
+what is blueprint:
+blueprint is a powerful tool that allows you to break large web applications into smaller, more manageable parts.
+Using Blueprint, you can organize routes, templates, and other related resources, making your project structure more organized and readable.
+
+__________________________________________________________________________________________________________________________
 
 
 
