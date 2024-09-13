@@ -93,7 +93,7 @@ app = Flask(__name__)
 
 @app.route('/api/data')
 def data():
-    return jsonify({"message": "سلام! این داده‌ها به صورت JSON هستند."})
+    return jsonify({"message": "this datas are in json form."})
 
 if name == '__main__':
     app.run(debug=True)
