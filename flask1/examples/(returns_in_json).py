@@ -10,6 +10,7 @@ def data():
 
 if name == '__main__':
     app.run(debug=True)
-
+    
+______________________________________________________________
 this code create a simple API that returns data in JSON format
 
