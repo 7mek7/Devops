@@ -51,7 +51,8 @@ blueprint is a powerful tool that allows you to break large web applications int
 Using Blueprint, you can organize routes, templates, and other related resources, making your project structure more organized and readable.
 ________________________________________________________________________________________________________________________________________________
 example1: wellcome msg
-
+simple example from flask framework in python:
+this code run simple website that show a (wellcome) message to user
 
 
 
