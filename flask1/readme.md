@@ -58,6 +58,11 @@ example2: submit
 this code creats a simple HTML form where the user can enter their name and see aa wellcome message 
 after submission
 __________________________________________________________________________________________________________________________________________________
+example3: returns_in_json
+this code create a simple API that returns data in JSON format
+__________________________________________________________________________________________________________________________________________________
+example4: blue print
+
 
 
 
