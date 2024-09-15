@@ -49,7 +49,8 @@ ________________________________________________________________________________
 what is blueprint:
 blueprint is a powerful tool that allows you to break large web applications into smaller, more manageable parts.
 Using Blueprint, you can organize routes, templates, and other related resources, making your project structure more organized and readable.
-
+________________________________________________________________________________________________________________________________________________
+example1: wellcome msg
 
 
 
