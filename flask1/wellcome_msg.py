@@ -1,7 +1,3 @@
- simple example from flask framework in python:
-this code run simple website that show a (wellcome) message to user
-________________________________________________________________________________
-
 from flask import Flask
 
 app = Flask(__name__)
