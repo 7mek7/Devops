@@ -45,14 +45,20 @@ example:
 
   if __name__ == '__main__':
       app.run()
-_______________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________
 what is blueprint:
 blueprint is a powerful tool that allows you to break large web applications into smaller, more manageable parts.
 Using Blueprint, you can organize routes, templates, and other related resources, making your project structure more organized and readable.
-________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________
 example1: wellcome msg
 simple example from flask framework in python:
 this code run simple website that show a (wellcome) message to user
+_________________________________________________________________________________________________________________________________________________
+example2: submit
+this code creats a simple HTML form where the user can enter their name and see aa wellcome message 
+after submission
+__________________________________________________________________________________________________________________________________________________
+
 
 
 
