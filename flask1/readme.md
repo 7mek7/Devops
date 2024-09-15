@@ -62,6 +62,10 @@ example3: returns_in_json
 this code create a simple API that returns data in JSON format
 __________________________________________________________________________________________________________________________________________________
 example4: blue print
+By running this code, you will have a simple website that
+will display a message saying "This is a simple page" is displayed
+
+
 
 
 
