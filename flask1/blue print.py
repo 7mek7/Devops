@@ -1,5 +1,3 @@
-use bluprint:
-
 from flask import Flask, Blueprint
 
 app = Flask(__name__)
@@ -13,4 +11,3 @@ app.register_blueprint(simple_page)
 
 if name == '__main__':
     app.run(debug=True)
-____________________________________________________________________________
