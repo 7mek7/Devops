@@ -14,3 +14,6 @@ to send rest requests in bash you can use the (curl)command (curl) is a command 
 ______________________________________________________________________________________________________________________________________________________________________
 example1:1 to 10
 a script of bash that print numbers(1) to (10)
+
+example2:cu
+a bash script that displays thhe current username
