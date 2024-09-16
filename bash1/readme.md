@@ -12,3 +12,5 @@ in bash you can use the rest API to communicate with web services
 to send rest requests in bash you can use the (curl)command (curl) is a command line tool that allows you to send and receive
 (http)and(https)requests
 ______________________________________________________________________________________________________________________________________________________________________
+example1:1 to 10
+a script of bash that print numbers(1) to (10)
