@@ -18,3 +18,23 @@ a script of bash that print numbers(1) to (10)
 example2:current user & current directory
 a bash script that displays thhe current username
 a bash script that displays thhe current directory
+
+
+example3:pattern
+a bash script to search for a specific pattern intext file and display lines matching that pattern
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
