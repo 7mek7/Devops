@@ -23,6 +23,9 @@ a bash script that displays thhe current directory
 example3:pattern
 a bash script to search for a specific pattern intext file and display lines matching that pattern
 
+example4:sum odds number from 1 to 100
+a bash script that sums odd numbers from 1 to 100 and displays the answer
+
 
 
 
