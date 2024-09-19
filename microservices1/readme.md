@@ -9,9 +9,17 @@ Key Features of Microservices:
 3 Scalability: Individual services can be scaled up or down based on demand without needing to scale the entire application, optimizing resource usage.
 4 Continuous Deployment: Microservices support CI/CD practices, allowing for more frequent and reliable updates to the application.
 5 Resilience: The failure of one microservice does not impact the entire system, enhancing overall reliability and fault tolerance.
+____________________________________________________________________________________________________________________________________________________________
 
 
 Example1 : Implementing CI/CD with GitHub Actions
 
 Goal: Create a workflow for building and deploying microservices.
+_______________________________________________________________________________________________________________________________________________________________
+Exercise 6: Automated microservice testing
+Goal: Write unit tests for microservices.
 
+
+▎Steps:
+1. Use Jest to write unit tests.
+__________________________________________________________________________________________________________________________________________________________________
