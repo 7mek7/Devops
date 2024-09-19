@@ -16,7 +16,7 @@ Example1 : Implementing CI/CD with GitHub Actions
 
 Goal: Create a workflow for building and deploying microservices.
 _______________________________________________________________________________________________________________________________________________________________
-Exercise 6: Automated microservice testing
+Example 2: Automated microservice testing
 Goal: Write unit tests for microservices.
 
 
