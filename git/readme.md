@@ -39,7 +39,64 @@ ________________________________________________________________________________
 focus
 Git is one of the essential tools in the DevOps process, helping developers and operations teams manage code effectively, collaborate more, and implement CI/CD processes.
 This tool not only increases the efficiency but also improves the quality of the software.
+_________________________________________________________________________________________________________________________________________________________________________
+Commonly used Git commands
+
+Git installation
+sudo apt-get install git # for Ubuntu
+brew install git # for mac
+
+Initial configuration
+git config --global user.name "your name"
+git config --global user.email "your email"
+
+Create a new repository
+git init project-name
+
+Clone an existing repository
+git clone (repository-address)
+
+Checking the status of the tank
+git status
+
+Adding files to the staging area
+git add filename
+git add.                      # To add all files
 
 
+Record changes (commit)
+git commit -m "Change log message"
 
+
+View the history of changes
+git log
+
+
+See the differences
+git diff # Differences between changed files and last commit
+git diff --staged # Differences between the staged files and the last commit
+
+Revert to the previous commit
+git checkout commit-id # to return to a specific commit
+
+
+merging changes (merge)
+git merge branch-name # Merge the specified branch into the current branch
+
+
+Create a new branch
+git branch branch-name # Create a new branch
+git checkout branch-name # Switch to that branch
+
+
+Delete the branch
+git branch -d branch-name # Delete a local branch
+
+
+Sending changes to the remote repository
+git push origin branch-name # Push changes to the specified branch in the remote repository
+
+
+Receive changes from remote repository
+git pull origin branch-name # Get and merge changes from the remote repository
 
