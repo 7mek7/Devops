@@ -16,7 +16,7 @@ Version management:
 Management of changes in the database structure (such as schema) should be done regularly.
 Using tools like Liquibase or Flyway can help manage database versions.
 
-▎Monitoring and supervision:
+Monitoring and supervision:
 It is very important to monitor the performance of the database and identify problems online. 
 Monitoring tools can help identify bottlenecks and performance issues.
 
@@ -24,7 +24,7 @@ Scalability:
 Databases must be scalable in order to adapt to the increase in workload and user needs.
 This may include the use of distributed databases or cloud services.
 
-▎security:
+security:
 Data protection and database security must be considered at all stages of development and operation.
 This includes data encryption, access control and monitoring of suspicious activity.
 
@@ -32,6 +32,6 @@ Test:
 Database testing should be part of the CI/CD (Continuous Integration/Continuous Delivery)
 process to ensure that changes to the database do not cause problems.
 
-▎Conclusion
+Conclusion:
 Finally, databases in devops are considered not only as an infrastructure element but also as part of the software life cycle.
 By implementing best practices in database management, teams can achieve higher speed and quality in software delivery.
